@@ -11,12 +11,25 @@ namespace CRUDwebforms
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            // connection to database
+            // page load events
 
 
         }
 
         protected void Button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void ButtonEdit_Click(object sender, EventArgs e)
+        {
+
+        }
+        protected void ButtonDelete_Click(object sender, EventArgs e)
+        {
+
+        }
+        protected void ButtonView_Click(object sender, EventArgs e)
         {
 
         }
