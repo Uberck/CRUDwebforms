@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDwebforms", "CRUDwebforms\CRUDwebforms.csproj", "{69C75FED-E31D-451A-92BC-BF248EA2D6D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFconnector", "WCFconnector\WCFconnector.csproj", "{33787F21-1688-44DA-B255-DE5B721305C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{69C75FED-E31D-451A-92BC-BF248EA2D6D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69C75FED-E31D-451A-92BC-BF248EA2D6D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69C75FED-E31D-451A-92BC-BF248EA2D6D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33787F21-1688-44DA-B255-DE5B721305C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33787F21-1688-44DA-B255-DE5B721305C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33787F21-1688-44DA-B255-DE5B721305C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33787F21-1688-44DA-B255-DE5B721305C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
